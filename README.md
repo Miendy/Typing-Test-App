@@ -1,2 +1,2 @@
-# Typing-Test-App
+# Typing-Test
 Typing Test App / Website
