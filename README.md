@@ -1,2 +1,2 @@
 # Typing-Test
-Typing Test App / Website
+Typing Test (Text Based)
